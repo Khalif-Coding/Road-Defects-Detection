@@ -99,6 +99,7 @@ import streamlit as st
 
 
 ## 📖 References
+- [Deployment](https://huggingface.co/spaces/Khal969/RoadDetectionDeployment)
 - [Info Kompas](https://otomotif.kompas.com/read/2024/01/25/092200115/jalan-rusak-di-indonesia-kerap-jadi-penyebab-kecelakaan-dan-kemacetanr)
 - [Korban Jalan Rusak](https://dprd.jemberkab.go.id/jalan-berlubang-di-kecamatan-jenggawah-telah-memakan-korban-komisi-c-dprd-jember-segera-panggil-dinas-terkait/)
 - [Korban Jalan Lubang](https://kumparan.com/kumparannews/sederet-kasus-kecelakaan-di-jakarta-akibat-jalan-berlubang-200XyFG9Mqp)
